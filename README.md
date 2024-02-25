@@ -1,10 +1,10 @@
 # Colored Badges for GitHub profiles
-I've put together some badges I for my [GitHub profile readme](https://github.com/MikeCodesDotNET) as shown below and thought they might be useful to others. 
+I've put together some badges I for my [GitHub profile readme](https://github.com/DevNoctis1001) as shown below and thought they might be useful to others. 
 
 
 ## The Badges
 
-All badges are available as both [SVG](https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg) & [PNG](https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/png). I've also included the original [Figma file](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/badges.fig) I used to create these should you want to change the text. 
+All badges are available as both [SVG](https://github.com/DevNoctis1001/github-badges/tree/main/svg) & [PNG](https://github.com/DevNoctis1001/github-badges/tree/main/png).  I used to create these should you want to change the text. 
 
 ---
 
